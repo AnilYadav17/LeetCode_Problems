@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/1732-find-the-highest-altitude) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2574-left-and-right-sum-differences](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/2574-left-and-right-sum-differences) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3838-weighted-word-mapping](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/3838-weighted-word-mapping) |
 ## Hash Table
 |  |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/0268-missing-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Prefix Sum
 |  |
