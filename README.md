@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/0268-missing-number) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2469-convert-the-temperature](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/2469-convert-the-temperature) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/0268-missing-number) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0977-squares-of-a-sorted-array](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/0977-squares-of-a-sorted-array) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Stack
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/AnilYadav17/LeetCode_Problems/tree/master/2160-minimum-sum-of-four-digit-number-after-splitting-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
